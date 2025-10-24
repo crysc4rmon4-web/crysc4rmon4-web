@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Tengo **32 años** y estoy comenzando mi camino como desarrollador web.  
+Tengo **32 años** y estoy comenzando mi camino como desarrollador Full-Stack.  
 Aunque recién inicio, he trabajado en proyectos muy divertidos:
 
 - 📰 **Feed de Instagram** — Maquetado con HTML, CSS y Bootstrap.  
