@@ -84,9 +84,6 @@ Prácticas y retos desarrollados como parte del programa Full Stack Developer.
 
 | 💬 **Generador de excusas** | Mini app con humor para practicar JS. | [Ver repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-4geeks) |
 
-💬 **Generador de excusas**  
-Mini app con humor para practicar JS.  
-👉 [Ver repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-4geeks)
 
 ---
 
