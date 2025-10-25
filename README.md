@@ -77,9 +77,18 @@ Proyectos creados por iniciativa propia, enfocados en aprendizaje, innovación y
 
 ### 🧠 **Proyectos de 4GeeksAcademy**
 Prácticas y retos desarrollados como parte del programa Full Stack Developer.
-| 🖤 **Formulario de Pago (Bootstrap)** | Interfaz moderna con validación dinámica y modales. | [Ver repo](https://github.com/crysc4rmon4-web/Proyecto-formulario-4geeks) |
-| 📰 **Feed de Instagram** | Layout estilo redes con HTML y CSS. | [Ver repo](https://github.com/crysc4rmon4-web/Instagram-bootstrap-4Geeks) |
-| 💬 **Generador de excusas** | Mini app con humor para practicar JS. | [Ver repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-4geeks) |
+
+🖤 **Formulario de Pago (Bootstrap)**  
+Interfaz moderna con validación dinámica y modales.  
+👉 [Ver repo](https://github.com/crysc4rmon4-web/Proyecto-formulario-4geeks)
+
+📰 **Feed de Instagram**  
+Layout estilo redes con HTML y CSS.  
+👉 [Ver repo](https://github.com/crysc4rmon4-web/Instagram-bootstrap-4Geeks)
+
+💬 **Generador de excusas**  
+Mini app con humor para practicar JS.  
+👉 [Ver repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-4geeks)
 
 ---
 
