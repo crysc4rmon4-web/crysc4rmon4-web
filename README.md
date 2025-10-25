@@ -73,7 +73,7 @@ Cada línea que escribo hoy, intento que sea más limpia que la de ayer.
 ### 🚀 **Proyectos Personales**
 Proyectos creados por iniciativa propia, enfocados en aprendizaje, innovación y mejora continua.
 
-| 🪙 **Cartera Digital Pro** | Aplicación moderna para gestionar tus finanzas personales y fomentar el ahorro inteligente.| [Ver repo(https://github.com/crysc4rmon4-web/Cartera-Digital_Pro) |
+| 🪙 **Cartera Digital Pro** | Aplicación moderna para gestionar tus finanzas personales y fomentar el ahorro inteligente.| [Ver repo](https://github.com/crysc4rmon4-web/Cartera-Digital_Pro) |
 
 ### 🧠 **Proyectos de 4GeeksAcademy**
 Prácticas y retos desarrollados como parte del programa Full Stack Developer.
