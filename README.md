@@ -70,10 +70,19 @@ Cada línea que escribo hoy, intento que sea más limpia que la de ayer.
 ## 📦 Proyectos destacados
 
 | Proyecto | Descripción | Repositorio |
-|-----------|--------------|-------------|
-| 🖤 **Formulario de Pago (Bootstrap)** | Interfaz moderna con validación dinámica y modales. | [Ver repo](https://github.com/4GeeksAcademy/Proyecto-formulario-Crys) |
-| 📰 **Feed de Instagram** | Layout estilo redes con HTML y CSS. | *(próximamente)* |
-| 💬 **Generador de excusas** | Mini app con humor para practicar JS. | *(próximamente)* |
+
+|-----------------|------------------|-------------------|
+
+### 🚀 **Proyectos Personales**
+Proyectos creados por iniciativa propia, enfocados en aprendizaje, innovación y mejora continua.
+
+| 🪙 **Cartera Digital Pro** | Aplicación moderna para gestionar tus finanzas personales y fomentar el ahorro inteligente.| [Ver repo(https://github.com/crysc4rmon4-web/Cartera-Digital_Pro) |
+
+### 🧠 **Proyectos de 4GeeksAcademy**
+Prácticas y retos desarrollados como parte del programa Full Stack Developer.
+| 🖤 **Formulario de Pago (Bootstrap)** | Interfaz moderna con validación dinámica y modales. | [Ver repo](https://github.com/crysc4rmon4-web/Proyecto-formulario-4geeks) |
+| 📰 **Feed de Instagram** | Layout estilo redes con HTML y CSS. | [Ver repo](https://github.com/crysc4rmon4-web/Instagram-bootstrap-4Geeks) |
+| 💬 **Generador de excusas** | Mini app con humor para practicar JS. | [Ver repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-4geeks) |
 
 ---
 
