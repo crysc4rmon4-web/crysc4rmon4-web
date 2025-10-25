@@ -69,9 +69,6 @@ Cada línea que escribo hoy, intento que sea más limpia que la de ayer.
 
 ## 📦 Proyectos destacados
 
-| Proyecto | Descripción | Repositorio |
-
-|-----------------|------------------|-------------------|
 
 ### 🚀 **Proyectos Personales**
 Proyectos creados por iniciativa propia, enfocados en aprendizaje, innovación y mejora continua.
