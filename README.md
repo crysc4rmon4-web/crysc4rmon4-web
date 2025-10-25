@@ -89,8 +89,8 @@ Prácticas y retos desarrollados como parte del programa Full Stack Developer.
 
 ## 💬 Frase personal
 
-> “Mi misión como programador es saber qué herramienta existe,  
-> dónde encontrarla y cómo usarla con estilo.” ⚡  
+> “Mi misión como programador es conocer las herramientas, entender su propósito
+>       y usarlas con elegancia para crear soluciones que trasciendan.” ⚡  
 
 ---
 
