@@ -15,9 +15,9 @@
 Tengo **32 años** y estoy comenzando mi camino como desarrollador Full-Stack.  
 Aunque recién inicio, he trabajado en proyectos muy divertidos:
 
-- 📰 **Feed de Instagram** — Maquetado con HTML, CSS y Bootstrap.  
+- 🤖 **Gestor Financiero Pro** — Expermiento con HTML, CSS, Bootstrap y JS.  
 - 💬 **Generador de excusas** — Pequeño experimento con JavaScript (¡ideal para cuando rompo el código!).  
-- 💳 **Formulario de pago** — Mi favorito: tema oscuro, validaciones y diseño moderno con Bootstrap.
+- 💳 **Formulario de pago** — Tema oscuro, validaciones y diseño moderno con Bootstrap.
 
 Mi lado fuerte es el **frontend**, porque disfruto la parte estética del código:  
 **colores bien combinados, interfaces limpias y experiencia fluida para el usuario.**  
@@ -57,7 +57,7 @@ Mi lado fuerte es el **frontend**, porque disfruto la parte estética del códig
 
 ## 🧑‍💻 Datos curiosos sobre mí
 
-- 🎧 Trabajo mejor con **Placebo** de fondo (modo “code warrior” activado).  
+- 🎧 Trabajo mejor escuchando **Placebo** de fondo (modo “code warrior” activado).  
 - 💀 He roto más proyectos de los que he terminado (pero siempre aprendiendo).  
 - 🧩 Me gusta la **organización visual**. 
 - ☕ Café o 🥃 Whiskey... depende del bug.
