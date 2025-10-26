@@ -45,9 +45,6 @@ Mi lado fuerte es el **frontend**, porque disfruto la parte estética del códig
 > “Primero que funcione, luego que se vea bien,  
 > y finalmente que lo entiendas sin comentar.” 😅  
 
-No persigo la perfección, pero sí la **claridad y la mejora continua**.  
-Cada línea que escribo hoy, intento que sea más limpia que la de ayer.
-
 ---
 
 ## 🌱 En constante evolución
@@ -60,9 +57,9 @@ Cada línea que escribo hoy, intento que sea más limpia que la de ayer.
 
 ## 🧑‍💻 Datos curiosos sobre mí
 
-- 🎧 Trabajo mejor con música de fondo (modo “code warrior” activado).  
+- 🎧 Trabajo mejor con **Placebo** de fondo (modo “code warrior” activado).  
 - 💀 He roto más proyectos de los que he terminado (pero siempre aprendiendo).  
-- 🧩 Me gusta la **organización visual** — los formularios son mi lienzo favorito.  
+- 🧩 Me gusta la **organización visual**. 
 - ☕ Café o 🥃 Whiskey... depende del bug.
 
 ---
