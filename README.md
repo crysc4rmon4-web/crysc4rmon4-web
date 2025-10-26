@@ -1,7 +1,9 @@
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f10,100:00ffaa&height=200&section=header&text=Crys%20Dev%20☕%20Code%20&%20Coffee&fontColor=00e5ff&fontSize=45&fontAlignY=35&desc=Frontend%20lover%20%7C%204Geeks%20Academy&descAlignY=55&animation=fadeIn" alt="Crys Dev Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f10,100:00ffaa&height=200&section=header&text=CrysWorks%20☕%20–%20Crafting%20Code&fontColor=00e5ff&fontSize=45&fontAlignY=35&desc=Fullstack%20Developer%20in%20progress%20%2F%2F%204GeeksAcademy&descAlignY=55&animation=twinkling" alt="CrysWorks Banner"/>
 </p>
+
 
 # 👋 ¡Hola, mundo! Soy Crystian Ariel Carmona Trujillo —  **crysc4rmon4-web** 💻
 
