@@ -82,7 +82,7 @@ Even though I’m at the beginning of my journey, I’ve already developed small
 
 | 📰 **Instagram Feed Clone** | Layout challenge with HTML & CSS. | [View Repo](https://github.com/crysc4rmon4-web/Instagram-bootstrap-4Geeks) | 
 
-|| 🤷‍♂️ **Excuse Generator** | Random excuse app to practice JS logic. | [View Repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-4geeks) |
+|| 🤷‍♂️ **Excuse Generator** | Random excuse app to practice JS logic. | [View Repo](https://github.com/crysc4rmon4-web/Generador-de-excusas-Crys2.0) |
 
 ---
 
