@@ -1,3 +1,15 @@
+<!--
+==================================================
+  Hidden Signature · Binary Easter Egg
+
+  01000011 01110010 01111001 01110011
+  00101101
+  01000011 00110100 01110010 01101101 01101111 01101110 00110100
+
+  Decoded: Crys-C4rmon4
+==================================================
+-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0f&height=240&section=header&text=CRYS%20CARMONA&fontSize=80&fontColor=00f5ff&fontAlign=50&fontAlignY=40&desc=UI%20ENGINEER%20%7C%20DIGITAL%20PRODUCT%20BUILDER&descAlign=50&descAlignY=62&descSize=22&animation=twinkling" alt="Crys Carmona UI Architect" />
 </div>
