@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0f&height=240&section=header&text=CRYS%20CARMONA&fontSize=80&fontColor=00ffaa&fontAlign=50&fontAlignY=40&desc=UI%20ENGINEER%20%7C%20DIGITAL%20PRODUCT%20BUILDER&descAlign=50&descAlignY=62&descSize=22&animation=twinkling" alt="Crys Carmona UI Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0f&height=240&section=header&text=CRYS%20CARMONA&fontSize=80&fontColor=00f5ff&fontAlign=50&fontAlignY=40&desc=UI%20ENGINEER%20%7C%20DIGITAL%20PRODUCT%20BUILDER&descAlign=50&descAlignY=62&descSize=22&animation=twinkling" alt="Crys Carmona UI Architect" />
 </div>
 
 <div align="center">
@@ -12,45 +12,44 @@
 
 <br />
 
-## ⚡ Crafting the Future of Web Interfaces
-I don't just write code; I build **digital assets**. Specialized in high-fidelity React interfaces that balance futuristic aesthetics with psychological conversion. 
+## ⚡ High-Fidelity Interface Engineering
+I architect **digital assets** for the next generation of web. My focus is at the intersection of **minimalist aesthetics** and **high-performance React architecture**. 
 
-- 🚀 **Marketplace:** Building a curated library of premium SaaS templates.
-- 🎨 **Philosophy:** Minimalist Motion, Bento-Grids, and High-Contrast Dark Mode.
+- 🚀 **Mission:** Creating a premium marketplace for high-conversion SaaS components.
+- 🎨 **Aesthetic:** Dark-mode specialist, Fluid Motion, and Bento-Grid layouts.
 - 🛠️ **Status:** Currently developing the "Neon-Horizon" UI Kit.
 
 ---
 
-### 📦 Premium Digital Assets (Available Soon)
-*Exploring the intersection of art and frontend engineering.*
-
-* **[SaaS Hero Pro]** - High-conversion animated landing section. `[In Progress]`
-* **[Glassmorphism Dashboard]** - Minimalist data visualization kit. `[Coming Soon]`
-* **[Bento-Portfolio]** - The ultimate portfolio for digital creatives. `[Planning]`
-
----
-
 ### 🏗️ Strategic Engineering
+*Curated selection of internal assets and experimental interfaces.*
 
-| Project | Focus | Tech |
+| Project | Focus | Status |
 | :--- | :--- | :--- |
-| **SaveCraft** | Financial UX & State Management | React + Tailwind |
-| **SecurePay UI** | High-Fidelity Checkout Flows | Framer Motion |
-| **Modular Layouts** | Rapid Prototyping Systems | Next.js |
+| **SaveCraft** | Financial UX & State Management | `Refactoring` |
+| **SecurePay UI** | High-Fidelity Checkout Flows | `In Audit` |
+| **Modular Layouts** | Rapid Prototyping Systems | `Pre-release` |
 
 ---
 
-### 📊 Tactical Stats
+### 📊 Tactical Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&title_color=00ffaa&icon_color=00ffaa&text_color=ffffff&bg_color=0b0b0f&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=0b0b0f&hide_border=true&count_private=true" />
 </div>
 
 ---
 
-### 🛰️ Connect & Collaborate
+### 🛰️ Connect with the Future
 <div align="center">
   <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  <br />
+  <i>"Building the interfaces of 2026, one pixel at a time."</i>
+</p>
   </a>
   <a href="https://gumroad.com/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/MARKETPLACE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" />
