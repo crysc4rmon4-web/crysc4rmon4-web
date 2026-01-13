@@ -49,21 +49,13 @@ I architect **digital assets** for the next generation of web. My focus is at th
 </div>
 
 ---
-
 ### 🛰️ Connect with the Future
 <div align="center">
   <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<p align="center">
-  <br />
-  <i>"Building the interfaces of 2026, one pixel at a time."</i>
-</p>
-  </a>
-  <a href="https://gumroad.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/MARKETPLACE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" />
+  <a href="https://gumroad.com/crysc4rmon4" target="_blank">
+    <img src="https://img.shields.io/badge/MARKETPLACE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Store"/>
   </a>
 </div>
 
