@@ -24,43 +24,43 @@
 <br />
 
 ## ⚡ High-Fidelity Interface Engineering
-I architect **digital assets** for the next generation of web. My focus is at the intersection of **minimalist aesthetics** and **high-performance React architecture**. 
+I architect **premium digital assets** and high-conversion interfaces. My work focuses on the intersection of **minimalist aesthetics** and **production-ready React architecture**.
 
-- 🚀 **Mission:** Creating a premium marketplace for high-conversion SaaS components.
-- 🎨 **Aesthetic:** Dark-mode specialist, Fluid Motion, and Bento-Grid layouts.
-- 🛠️ **Latest Release:** [The Construction Lead Machine v1.0](https://gumroad.com/l/tu-link-aqui)
-
----
-
-### 🏗️ Strategic Engineering & Commercial Assets
-*Curated selection of production-ready interfaces and internal systems.*
-
-| Asset | Focus | Status |
-| :--- | :--- | :--- |
-| **Construction Lead Machine** | High-Conversion React Landing | `🔥 AVAILABLE` |
-| **SaveCraft** | Financial UX & State Management | `Refactoring` |
-| **SecurePay UI** | High-Fidelity Checkout Flows | `In Audit` |
-| **Modular Layouts** | Rapid Prototyping Systems | `Pre-release` |
+- 🚀 **Mission:** Empowering micro-enterprises with elite-tier software assets.
+- 🎨 **Expertise:** Dark-mode Systems, Fluid Motion, and High-Performance UX.
+- 🛒 **Featured Asset:** [Construction Lead Machine v1.0 (Get License)](https://cryscarmon.gumroad.com/l/construction-lead-machine)
 
 ---
 
-### 📊 Tactical Metrics
+### 🏗️ Commercial Assets & Strategic Engineering
+*Battle-tested interfaces designed for immediate deployment.*
+
+| Digital Asset | Focus | Status | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **Construction Lead Machine** | High-Conversion Landing | `🔥 AVAILABLE` | [View Demo](https://prime-construction-demo.vercel.app/) |
+| **SaveCraft** | Financial UX & Spanish IVA | `In Refactor` | - |
+| **SecurePay UI** | High-Fidelity Checkout | `In Audit` | - |
+
+---
+
+### 📊 Performance Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=0b0b0f&hide_border=true&count_private=true" />
 </div>
 
 ---
-### 🛰️ Marketplace & Ecosystem
+
+### 🛰️ Connect & Acquire
 <div align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://gumroad.com/crysc4rmon4" target="_blank">
-    <img src="https://img.shields.io/badge/GUMROAD_STORE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Store"/>
+  <a href="https://cryscarmon.gumroad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OFFICIAL_STORE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Store"/>
   </a>
 </div>
 
 <p align="center">
   <br />
   <i>"Building the interfaces of 2026, one pixel at a time."</i>
-</p>>
+</p>
