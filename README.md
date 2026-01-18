@@ -28,15 +28,16 @@ I architect **digital assets** for the next generation of web. My focus is at th
 
 - 🚀 **Mission:** Creating a premium marketplace for high-conversion SaaS components.
 - 🎨 **Aesthetic:** Dark-mode specialist, Fluid Motion, and Bento-Grid layouts.
-- 🛠️ **Status:** Currently developing the "Neon-Horizon" UI Kit.
+- 🛠️ **Latest Release:** [The Construction Lead Machine v1.0](https://gumroad.com/l/tu-link-aqui)
 
 ---
 
-### 🏗️ Strategic Engineering
-*Curated selection of internal assets and experimental interfaces.*
+### 🏗️ Strategic Engineering & Commercial Assets
+*Curated selection of production-ready interfaces and internal systems.*
 
-| Project | Focus | Status |
+| Asset | Focus | Status |
 | :--- | :--- | :--- |
+| **Construction Lead Machine** | High-Conversion React Landing | `🔥 AVAILABLE` |
 | **SaveCraft** | Financial UX & State Management | `Refactoring` |
 | **SecurePay UI** | High-Fidelity Checkout Flows | `In Audit` |
 | **Modular Layouts** | Rapid Prototyping Systems | `Pre-release` |
@@ -49,17 +50,17 @@ I architect **digital assets** for the next generation of web. My focus is at th
 </div>
 
 ---
-### 🛰️ Connect with the Future
+### 🛰️ Marketplace & Ecosystem
 <div align="center">
   <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://gumroad.com/crysc4rmon4" target="_blank">
-    <img src="https://img.shields.io/badge/MARKETPLACE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Store"/>
+    <img src="https://img.shields.io/badge/GUMROAD_STORE-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Store"/>
   </a>
 </div>
 
 <p align="center">
   <br />
   <i>"Building the interfaces of 2026, one pixel at a time."</i>
-</p>
+</p>>
