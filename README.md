@@ -9,34 +9,33 @@
   Decoded: Crys-C4rmon4
 ==================================================
 -->
-# 🏛️ CARMONA STUDIO | Software Boutique
+# 🏛️ CARMONA STUDIO | High-Performance Digital Assets
 
-Digital Product Architect specializing in high-performance interfaces and strategic software assets for high-value industries.
-
----
-
-### 🚀 Digital Assets (The 2026 Collection)
-*High-conversion engines built with Next.js 15 & React.*
-
-* **[Elite Estate Engine](https://github.com/crysc4rmon4-web/elite-estate-nextjs)** *Luxury Real Estate Landing.* Minimalist aesthetics, ultra-fast performance, and lead-gen optimization.
-* **[Construction Lead Machine](https://github.com/crysc4rmon4-web/elite-construction-landing-react)** *Industrial Authority Landing.* Designed for high-ticket renovations and construction firms.
-* **[Solar Energy Engine](https://github.com/crysc4rmon4-web/carmona-solar-engine)** *Renewable Tech Interface.* (Coming soon: Strategic refactor for the solar niche).
+I architect elite-tier software engines for industries where aesthetics and performance are non-negotiable. No subscriptions. No bloated code. Just pure ownership.
 
 ---
 
-### 💎 The Carmona Standards
-- **Performance:** 99/100 Lighthouse scores by default.
-- **Ownership:** No subscriptions. One-time payment for perpetual licenses.
-- **Stack:** Next.js 15 (Turbopack), Tailwind 4, TypeScript, Framer Motion.
+### 💎 Commercial Collection (2026)
+*Production-ready interfaces designed for high-ticket conversion.*
+
+* **[Elite Estate Engine](https://carmona-estate.vercel.app/)** — *Real Estate Architecture.* Built with Next.js 15. Focused on ultra-low latency and luxury visual storytelling.
+* **[Elite Construction Machine](https://prime-construction-demo.vercel.app/)** — *Industrial Authority.* The base engine for high-conversion renovation and construction firms.
+* **[Case Study: Valentín Construcciones](https://valentin-construcciones.vercel.app/)** — *Real-world Implementation.* Adaptation of our industrial engine for a high-end construction client.
 
 ---
 
-### 🛰️ Business Enquiries
-I build the software that sells your services while you sleep.
+### 🛠️ The Carmona Standard
+- **Zero-Latency:** 95+ Lighthouse scores. Speed is our primary conversion tool.
+- **Ownership Model:** One-time payment. Perpetual license. Complete control of your tech stack.
+- **Modern Stack:** Next.js 15 (App Router), Tailwind CSS 4, Framer Motion.
 
-[**Get a License on Gumroad**](https://cryscarmon.gumroad.com/) | [**Connect on LinkedIn**](https://linkedin.com/in/tu-perfil)
+---
 
-<p align="center">
-  <br />
-  <i>"Code simplicity. Page speed. Senior architecture."</i>
+### 🛰️ Business & Enquiries
+I help businesses stop renting their presence and start owning their software.
+
+[**LinkedIn / Crys Carmona**](https://www.linkedin.com/in/crystian-carmona-trujillo-8296a1284/) | [**Commercial Store**](https://cryscarmon.gumroad.com/)
+
+<p align="right">
+  <i>"Building the software that sells while you sleep."</i>
 </p>
