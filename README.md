@@ -47,12 +47,6 @@ Desarrollador Full Stack con enfoque en la creación de activos digitales de alt
 
 ---
 
-### 📊 Performance & Statistics
-![Crys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crysc4rmon4-web&layout=compact&theme=radical)
-
----
-
 ### 🛰️ Connect with me
 - **LinkedIn:** [crystian-carmona-trujillo](https://www.linkedin.com/in/crystian-carmona-trujillo-8296a1284/)
 - **Store:** [Digital Assets Store](https://cryscarmon.gumroad.com/)
