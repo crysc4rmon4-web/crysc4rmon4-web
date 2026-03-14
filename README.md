@@ -9,47 +9,70 @@
   Decoded: Crys-C4rmon4
 ==================================================
 -->
-# Crys Carmona | Full Stack Developer & Performance Specialist 🚀
+<h1 align="center">Hola, soy Crys Carmona 👋</h1>
 
-Desarrollador Full Stack con enfoque en la creación de activos digitales de alto rendimiento. Especializado en optimización de latencia, interfaces de alta conversión y arquitecturas escalables. Mi objetivo es transformar código complejo en soluciones rápidas, seguras y de propiedad total.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Python+%7C+SQL;Rendimiento+y+Codigo+Limpio;Construyendo+Soluciones" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Specialized Tools
+Soy un **Desarrollador Full Stack** que disfruta transformando problemas complejos en interfaces rápidas y escalables. Me alejo del código "espagueti" y me enfoco en crear software donde el rendimiento y la experiencia del usuario son la prioridad absoluta. 
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js 15 (App Router), Tailwind CSS 4, Framer Motion |
-| **Backend** | Python, Node.js, Flask, SQLAlchemy, Prisma, Zod |
-| **Database** | PostgreSQL, SQL, Supabase |
-| **Performance** | SEO Strategy, 95+ Lighthouse Scores, Core Web Vitals |
+⚡ **Mi enfoque:** Conectar una lógica de backend robusta con frontends modernos de alta conversión.  
+🌱 **Actualmente:** Desarrollando una aplicación financiera con lógica fiscal compleja desde cero.
 
 ---
 
-### 💎 Featured Engineering Projects
+### 🛠️ Stack Tecnológico
 
-#### [Elite Estate Engine](https://carmona-estate.vercel.app/)
-**Real Estate Architecture.** Una plataforma diseñada para el sector inmobiliario de lujo.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,python,flask,postgres,supabase,git,figma&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 1. [SkillBank | Plataforma de Gestión de Tiempo](https://sample-service-name-10o4.onrender.com/) 🌟 *Proyecto Principal*
+Aplicación de economía colaborativa donde el tiempo es la moneda de cambio. Desarrollada en equipo aplicando una arquitectura completa de principio a fin.
+* **Stack:** React, Python (Flask), SQLAlchemy, PostgreSQL.
+* **El Reto:** Garantizar la fiabilidad del sistema de intercambio de saldos y optimizar la carga para mejorar la experiencia del usuario.
+* [Ver Código Fuente](https://github.com/4GeeksAcademy/spain-fs-pt-125-final-project-team-two)
+
+#### 2. [Valentín Construcciones | Landing de Alta Conversión](https://valentin-construcciones.vercel.app/)
+Solución digital a medida para una empresa de construcción de gama alta. Enfocada en rendimiento extremo y captura de clientes potenciales.
+* **Stack:** React.js, JavaScript, Tailwind CSS.
+* **El Reto:** Implementar una interfaz minimalista priorizando la identidad visual y los Core Web Vitals.
+* [Ver Código Fuente](https://github.com/crysc4rmon4-web/landing-cliente-Valentin)
+
+#### 3. [Elite Estate Engine](https://carmona-estate.vercel.app/)
+Plataforma diseñada para el sector inmobiliario de lujo con validación de datos estricta y latencia ultra baja.
 * **Stack:** Next.js 15, Prisma, Zod.
-* **Focus:** Ultra-low latency y validación de datos estricta.
-* [Ver Repositorio](https://github.com/crysc4rmon4-web/elite-estate-nextjs)
-
-#### [Elite Construction Machine](https://construction-landing-v10.vercel.app/)
-**Industrial Authority.** Motor base para empresas de construcción y reformas.
-* **Stack:** React, Tailwind CSS.
-* **Focus:** Estética industrial y optimización de conversión.
-* [Ver Repositorio](https://github.com/crysc4rmon4-web/elite-construction-landing-react)
-
-#### [Case Study: Valentín Construcciones](https://valentin-construcciones.vercel.app/)
-**Real-world Implementation.** Adaptación del motor industrial para un cliente real de construcción de gama alta.
-* **Focus:** Implementación de marca y despliegue en producción.
-* [Ver Repositorio](https://github.com/crysc4rmon4-web/landing-cliente-Valentin)
+* [Ver Código Fuente](https://github.com/crysc4rmon4-web/elite-estate-nextjs)
 
 ---
 
-### 🛰️ Connect with me
-- **LinkedIn:** [crystian-carmona-trujillo](https://www.linkedin.com/in/crystian-carmona-trujillo-8296a1284/)
-- **Store:** [Digital Assets Store](https://cryscarmon.gumroad.com/)
-- **Email:** crysc4rmon4@gmail.com
+### 📊 Actividad en GitHub
 
-*"Building software that performs, scales, and belongs to you."*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Crys" />
+</div>
+
+---
+
+### 📬 Conectemos
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/crystian-carmona-trujillo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:crysc4rmon4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://cryscarmon.gumroad.com/">
+    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad" />
+  </a>
+</div>
