@@ -19,7 +19,7 @@
 
 Soy un **Desarrollador Full Stack** que disfruta transformando problemas complejos en interfaces rápidas y escalables. Me alejo del código desordenado y me enfoco en crear software donde el rendimiento y la experiencia del usuario son la prioridad absoluta. 
 
-⚡Eenfocado en Conectar una lógica de backend robusta con frontends modernos.  
+⚡Enfocado en conectar una lógica de backend robusta con frontends modernos.  
 🌱 Trabajando en el desarrollo de una aplicación financiera con lógica fiscal desde cero.
 
 ---
@@ -40,11 +40,10 @@ Soy un **Desarrollador Full Stack** que disfruta transformando problemas complej
 
 Aplicación de economía colaborativa donde el tiempo es la moneda de cambio. Desarrollada en equipo aplicando una arquitectura completa de principio a fin.
 * **Stack:** React, Python (Flask), SQLAlchemy, PostgreSQL.
-* **El Reto:** Garantizar la fiabilidad del sistema de intercambio de saldos y optimizar la carga para mejorar la experiencia del usuario.
 * [Ver Código Fuente](https://github.com/4GeeksAcademy/spain-fs-pt-125-final-project-team-two)
 
 #### 2. [Valentín Construcciones | Landing de Alta Conversión](https://valentin-construcciones.vercel.app/)
-Solución digital a medida para una empresa de construcción. Enfocada en rendimiento extremo y captura de clientes potenciales.
+Solución digital a medida para una empresa de construcción. Enfocada en rendimiento y captura de clientes.
 * **Stack:** React.js, JavaScript, Tailwind CSS.
 * [Ver Código Fuente](https://github.com/crysc4rmon4-web/landing-cliente-Valentin)
 
