@@ -12,7 +12,7 @@
 <h1 align="center">Hola, soy Crys Carmona 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C; Next.js+%7C+Python+%7C+SQL" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Python+%7C+SQL;Soluciones+Limpias+y+Efectivas" alt="Typing SVG" />
 </div>
 
 <br/>
