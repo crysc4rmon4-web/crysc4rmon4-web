@@ -12,23 +12,23 @@
 <h1 align="center">Hola, soy Crys Carmona 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Python+%7C+SQL;Software+que+funciona+y+escala;Soluciones+limpias+y+efectivas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Python+%7C+SQL;Rendimiento+y+Codigo+Limpio;Construyendo+Soluciones" alt="Typing SVG" />
 </div>
 
 <br/>
 
-Soy un **Desarrollador Full Stack** con una obsesión: el software que no se rompe y que el cliente puede controlar al 100%. Me enfoco en construir herramientas donde la lógica compleja del backend se traduce en una experiencia de usuario fluida, rápida y profesional.
+Soy un **Desarrollador Full Stack** que disfruta transformando problemas complejos en interfaces rápidas y escalables. Me alejo del código desordenado y me enfoco en crear software donde el rendimiento y la experiencia del usuario son la prioridad absoluta. 
 
-⚡ **Lo que aporto:** No solo escribo código; resuelvo problemas de negocio con interfaces modernas y arquitecturas preparadas para crecer.
-🌱 **En mi teclado hoy:** Finalizando una app de presupuestos con lógica fiscal automatizada.
+⚡Eenfocado en Conectar una lógica de backend robusta con frontends modernos.  
+🌱 Trabajando en el desarrollo de una aplicación financiera con lógica fiscal desde cero.
 
 ---
 
-### 🛠️ Tecnologías que domino
+### 🛠️ Stack Tecnológico
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,python,flask,postgres,supabase,git,figma&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,python,flask,postgres,supabase,git,figma&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
@@ -36,36 +36,34 @@ Soy un **Desarrollador Full Stack** con una obsesión: el software que no se rom
 
 ### 🚀 Proyectos Destacados
 
-#### 1. SkillBank | Gestión de Tiempo y Economía Colaborativa
-*El proyecto más completo de mi carrera hasta la fecha. Desarrollado en equipo bajo una arquitectura profesional de principio a fin.*
-- **Stack:** React, Python (Flask), SQLAlchemy, PostgreSQL.
-- **Enfoque:** Fiabilidad en el intercambio de saldos y optimización de carga.
-- [🚀 Ver App en Vivo](https://sample-service-name-10o4.onrender.com/) | [💻 Explorar Código](https://github.com/4GeeksAcademy/spain-fs-pt-125-final-project-team-two)
+#### 1. [SkillBank | Plataforma de Gestión de Tiempo](https://sample-service-name-10o4.onrender.com/) 
 
-#### 2. Valentín Construcciones | Landing Premium
-*Solución real para el sector construcción. Priorizando la velocidad y la identidad visual de marca.*
-- **Stack:** React.js, JavaScript, Tailwind CSS.
-- **Enfoque:** Rendimiento extremo (Core Web Vitals) y diseño minimalista.
-- [🚀 Ver Proyecto](https://valentin-construcciones.vercel.app/) | [💻 Explorar Código](https://github.com/crysc4rmon4-web/landing-cliente-Valentin)
+Aplicación de economía colaborativa donde el tiempo es la moneda de cambio. Desarrollada en equipo aplicando una arquitectura completa de principio a fin.
+* **Stack:** React, Python (Flask), SQLAlchemy, PostgreSQL.
+* **El Reto:** Garantizar la fiabilidad del sistema de intercambio de saldos y optimizar la carga para mejorar la experiencia del usuario.
+* [Ver Código Fuente](https://github.com/4GeeksAcademy/spain-fs-pt-125-final-project-team-two)
 
-#### 3. Elite Estate Engine | Inmobiliaria de Lujo
-*Plataforma robusta diseñada para gestionar propiedades de alto nivel con validación estricta.*
-- **Stack:** Next.js 15 (App Router), Prisma, Zod.
-- **Enfoque:** Latencia ultra baja y gestión eficiente de datos.
-- [🚀 Ver Demo](https://carmona-estate.vercel.app/) | [💻 Explorar Código](https://github.com/crysc4rmon4-web/elite-estate-nextjs)
+#### 2. [Valentín Construcciones | Landing de Alta Conversión](https://valentin-construcciones.vercel.app/)
+Solución digital a medida para una empresa de construcción. Enfocada en rendimiento extremo y captura de clientes potenciales.
+* **Stack:** React.js, JavaScript, Tailwind CSS.
+* [Ver Código Fuente](https://github.com/crysc4rmon4-web/landing-cliente-Valentin)
+
+#### 3. [Elite Estate Engine](https://carmona-estate.vercel.app/)
+Plataforma diseñada para el sector inmobiliario de lujo con validación de datos y latencia baja.
+* **Stack:** Next.js 15, Prisma, Zod.
+* [Ver Código Fuente](https://github.com/crysc4rmon4-web/elite-estate-nextjs)
 
 ---
 
-### 📊 Mi Actividad en Código
-*Nota: Estas estadísticas reflejan mis aportes públicos actuales. Mi objetivo es mantener el tablero en verde constante.*
+### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" alt="Estadísticas de Crys" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Crys" />
 </div>
 
 ---
 
-### 📬 ¿Hablamos?
+### 📬 Conectemos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/crystian-carmona-trujillo">
@@ -73,15 +71,6 @@ Soy un **Desarrollador Full Stack** con una obsesión: el software que no se rom
   </a>
   <a href="mailto:crysc4rmon4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://cryscarmon.gumroad.com/">
-    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad" />
-  </a>
-</div>
-
-<p align="center">
-  <i>"El mejor código es aquel que parece sencillo a los ojos del usuario."</i>
-</p>
   </a>
   <a href="https://cryscarmon.gumroad.com/">
     <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad" />
