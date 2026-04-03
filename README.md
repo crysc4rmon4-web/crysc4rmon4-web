@@ -63,10 +63,7 @@ Plataforma diseñada para el sector inmobiliario de lujo con validación de dato
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=crysc4rmon4-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"
-    alt="Estadísticas de Crys"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crysc4rmon4-web&theme=tokyonight" />
 </div>
 
 ---
